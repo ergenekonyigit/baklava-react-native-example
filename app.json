@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "baklava-react-native",
-    "slug": "baklava-react-native"
+    "name": "baklava-react-native-example",
+    "slug": "baklava-react-native-example"
   }
 }
